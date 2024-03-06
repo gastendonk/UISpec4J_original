@@ -1,0 +1,4 @@
+jdk:
+  - openjdk17
+install:
+  - sh uispec4j/mvnw install -DskipTests
